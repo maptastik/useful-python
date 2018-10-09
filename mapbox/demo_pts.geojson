@@ -1,0 +1,4272 @@
+{
+  "type" : "FeatureCollection", 
+  "features" : [
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5509118031386, 35.8050320383012
+        ]
+      }, 
+      "properties" : {
+        "OID" : 1, 
+        "FACILITYID" : "1278", 
+        "COMMONNAME" : "paulownia, royal", 
+        "HEIGHT" : 35, 
+        "DBH" : 9
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5190533889042, 35.8700097126813
+        ]
+      }, 
+      "properties" : {
+        "OID" : 2, 
+        "FACILITYID" : "1310", 
+        "COMMONNAME" : "maple, red", 
+        "HEIGHT" : 28, 
+        "DBH" : 43
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7639131522715, 35.8888955080245
+        ]
+      }, 
+      "properties" : {
+        "OID" : 3, 
+        "FACILITYID" : "1534", 
+        "COMMONNAME" : "oak, shumard", 
+        "HEIGHT" : 24, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5135217201526, 35.9024767368151
+        ]
+      }, 
+      "properties" : {
+        "OID" : 4, 
+        "FACILITYID" : "1828", 
+        "COMMONNAME" : "sourwood", 
+        "HEIGHT" : 36, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7036131081598, 35.8913969039472
+        ]
+      }, 
+      "properties" : {
+        "OID" : 5, 
+        "FACILITYID" : "1904", 
+        "COMMONNAME" : "oak, nutall", 
+        "HEIGHT" : 33, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6859069823228, 35.7997004174435
+        ]
+      }, 
+      "properties" : {
+        "OID" : 6, 
+        "FACILITYID" : "1037", 
+        "COMMONNAME" : "linden, littleleaf", 
+        "HEIGHT" : 54, 
+        "DBH" : 42
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5471501881321, 35.7653310205134
+        ]
+      }, 
+      "properties" : {
+        "OID" : 7, 
+        "FACILITYID" : "1394", 
+        "COMMONNAME" : "magnolia, southern", 
+        "HEIGHT" : 91, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6342400512387, 35.8364762553781
+        ]
+      }, 
+      "properties" : {
+        "OID" : 8, 
+        "FACILITYID" : "1240", 
+        "COMMONNAME" : "catalpa, southern", 
+        "HEIGHT" : 96, 
+        "DBH" : 37
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5730707179407, 35.7427253989612
+        ]
+      }, 
+      "properties" : {
+        "OID" : 9, 
+        "FACILITYID" : "1962", 
+        "COMMONNAME" : "oak, willow", 
+        "HEIGHT" : 25, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6655239659597, 35.7694976119285
+        ]
+      }, 
+      "properties" : {
+        "OID" : 10, 
+        "FACILITYID" : "1151", 
+        "COMMONNAME" : "boxelder", 
+        "HEIGHT" : 53, 
+        "DBH" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6384135746281, 35.767391316959
+        ]
+      }, 
+      "properties" : {
+        "OID" : 11, 
+        "FACILITYID" : "1980", 
+        "COMMONNAME" : "olive, Russian", 
+        "HEIGHT" : 64, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5395260056221, 35.7349279773475
+        ]
+      }, 
+      "properties" : {
+        "OID" : 12, 
+        "FACILITYID" : "1354", 
+        "COMMONNAME" : "birch, paper", 
+        "HEIGHT" : 19, 
+        "DBH" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7385695069785, 35.8125908329039
+        ]
+      }, 
+      "properties" : {
+        "OID" : 13, 
+        "FACILITYID" : "1582", 
+        "COMMONNAME" : "buckeye, yellow", 
+        "HEIGHT" : 57, 
+        "DBH" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7542885133057, 35.877172415278
+        ]
+      }, 
+      "properties" : {
+        "OID" : 14, 
+        "FACILITYID" : "1442", 
+        "COMMONNAME" : "oak, shumard", 
+        "HEIGHT" : 12, 
+        "DBH" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6453354037073, 35.8325462396205
+        ]
+      }, 
+      "properties" : {
+        "OID" : 15, 
+        "FACILITYID" : "1812", 
+        "COMMONNAME" : "pine, Scotch", 
+        "HEIGHT" : 46, 
+        "DBH" : 20
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5386713987674, 35.8795180782999
+        ]
+      }, 
+      "properties" : {
+        "OID" : 16, 
+        "FACILITYID" : "1069", 
+        "COMMONNAME" : "spruce, blue", 
+        "HEIGHT" : 60, 
+        "DBH" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5539941188349, 35.8319444843537
+        ]
+      }, 
+      "properties" : {
+        "OID" : 17, 
+        "FACILITYID" : "1421", 
+        "COMMONNAME" : "coffeetree, Kentucky", 
+        "HEIGHT" : 63, 
+        "DBH" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6212506168239, 35.7690437088033
+        ]
+      }, 
+      "properties" : {
+        "OID" : 18, 
+        "FACILITYID" : "1101", 
+        "COMMONNAME" : "oak, live", 
+        "HEIGHT" : 46, 
+        "DBH" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5271432979262, 35.876021285757
+        ]
+      }, 
+      "properties" : {
+        "OID" : 19, 
+        "FACILITYID" : "1669", 
+        "COMMONNAME" : "holly, American", 
+        "HEIGHT" : 14, 
+        "DBH" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7461756724707, 35.9198040933874
+        ]
+      }, 
+      "properties" : {
+        "OID" : 20, 
+        "FACILITYID" : "1294", 
+        "COMMONNAME" : "birch, European white", 
+        "HEIGHT" : 26, 
+        "DBH" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6157100591733, 35.8665560345366
+        ]
+      }, 
+      "properties" : {
+        "OID" : 21, 
+        "FACILITYID" : "1608", 
+        "COMMONNAME" : "sassafras", 
+        "HEIGHT" : 71, 
+        "DBH" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6242506616401, 35.8265391091958
+        ]
+      }, 
+      "properties" : {
+        "OID" : 22, 
+        "FACILITYID" : "1880", 
+        "COMMONNAME" : "holly, American", 
+        "HEIGHT" : 30, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5981712531023, 35.8621227716518
+        ]
+      }, 
+      "properties" : {
+        "OID" : 23, 
+        "FACILITYID" : "1792", 
+        "COMMONNAME" : "pine, Scotch", 
+        "HEIGHT" : 10, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5589629226022, 35.9535966876402
+        ]
+      }, 
+      "properties" : {
+        "OID" : 24, 
+        "FACILITYID" : "1117", 
+        "COMMONNAME" : "sugarberry", 
+        "HEIGHT" : 37, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6646822355981, 35.856434773749
+        ]
+      }, 
+      "properties" : {
+        "OID" : 25, 
+        "FACILITYID" : "1235", 
+        "COMMONNAME" : "maple, sugar", 
+        "HEIGHT" : 73, 
+        "DBH" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5463513248552, 35.9639370502579
+        ]
+      }, 
+      "properties" : {
+        "OID" : 26, 
+        "FACILITYID" : "1506", 
+        "COMMONNAME" : "plum, flowering", 
+        "HEIGHT" : 90, 
+        "DBH" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.680451769435, 35.8919297135886
+        ]
+      }, 
+      "properties" : {
+        "OID" : 27, 
+        "FACILITYID" : "1164", 
+        "COMMONNAME" : "pine, shortleaf", 
+        "HEIGHT" : 29, 
+        "DBH" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7301892482366, 35.7894510113583
+        ]
+      }, 
+      "properties" : {
+        "OID" : 28, 
+        "FACILITYID" : "1831", 
+        "COMMONNAME" : "magnolia, southern", 
+        "HEIGHT" : 58, 
+        "DBH" : 34
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.750183562323, 35.8702963068323
+        ]
+      }, 
+      "properties" : {
+        "OID" : 29, 
+        "FACILITYID" : "1464", 
+        "COMMONNAME" : "hickory, nutmeg", 
+        "HEIGHT" : 21, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6422188786997, 35.7931768522331
+        ]
+      }, 
+      "properties" : {
+        "OID" : 30, 
+        "FACILITYID" : "1311", 
+        "COMMONNAME" : "blackgum", 
+        "HEIGHT" : 24, 
+        "DBH" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6177288096383, 35.8105213372931
+        ]
+      }, 
+      "properties" : {
+        "OID" : 31, 
+        "FACILITYID" : "1434", 
+        "COMMONNAME" : "hackberry, northern", 
+        "HEIGHT" : 92, 
+        "DBH" : 35
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5862257454232, 35.7398242642816
+        ]
+      }, 
+      "properties" : {
+        "OID" : 32, 
+        "FACILITYID" : "1825", 
+        "COMMONNAME" : "birch, gray", 
+        "HEIGHT" : 83, 
+        "DBH" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7424285590321, 35.8443526707424
+        ]
+      }, 
+      "properties" : {
+        "OID" : 33, 
+        "FACILITYID" : "1873", 
+        "COMMONNAME" : "oak, swamp chestnut", 
+        "HEIGHT" : 53, 
+        "DBH" : 37
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6411483275347, 35.9012206905856
+        ]
+      }, 
+      "properties" : {
+        "OID" : 34, 
+        "FACILITYID" : "1136", 
+        "COMMONNAME" : "elm, American", 
+        "HEIGHT" : 15, 
+        "DBH" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.8154726755249, 35.9126587486056
+        ]
+      }, 
+      "properties" : {
+        "OID" : 35, 
+        "FACILITYID" : "1842", 
+        "COMMONNAME" : "katsura tree", 
+        "HEIGHT" : 31, 
+        "DBH" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7642092189817, 35.8497206269086
+        ]
+      }, 
+      "properties" : {
+        "OID" : 36, 
+        "FACILITYID" : "1089", 
+        "COMMONNAME" : "catalpa, northern", 
+        "HEIGHT" : 91, 
+        "DBH" : 6
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6674641318656, 35.7759685317256
+        ]
+      }, 
+      "properties" : {
+        "OID" : 37, 
+        "FACILITYID" : "1184", 
+        "COMMONNAME" : "mulberry, white", 
+        "HEIGHT" : 96, 
+        "DBH" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6898495544148, 35.8050431602169
+        ]
+      }, 
+      "properties" : {
+        "OID" : 38, 
+        "FACILITYID" : "1955", 
+        "COMMONNAME" : "oak, laurel", 
+        "HEIGHT" : 99, 
+        "DBH" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6869101517835, 35.8197306756334
+        ]
+      }, 
+      "properties" : {
+        "OID" : 39, 
+        "FACILITYID" : "1189", 
+        "COMMONNAME" : "maackia, Amur", 
+        "HEIGHT" : 51, 
+        "DBH" : 40
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6989738294801, 35.7918287945664
+        ]
+      }, 
+      "properties" : {
+        "OID" : 40, 
+        "FACILITYID" : "1183", 
+        "COMMONNAME" : "pine, pitch", 
+        "HEIGHT" : 92, 
+        "DBH" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5950976086691, 35.8776856152022
+        ]
+      }, 
+      "properties" : {
+        "OID" : 41, 
+        "FACILITYID" : "1033", 
+        "COMMONNAME" : "maackia, Amur", 
+        "HEIGHT" : 27, 
+        "DBH" : 13
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5182363035639, 35.8778792095611
+        ]
+      }, 
+      "properties" : {
+        "OID" : 42, 
+        "FACILITYID" : "1456", 
+        "COMMONNAME" : "boxelder", 
+        "HEIGHT" : 56, 
+        "DBH" : 20
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5538181385976, 35.9351994013346
+        ]
+      }, 
+      "properties" : {
+        "OID" : 43, 
+        "FACILITYID" : "1356", 
+        "COMMONNAME" : "pagoda, Japanese", 
+        "HEIGHT" : 47, 
+        "DBH" : 42
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6082060566656, 35.8391439332491
+        ]
+      }, 
+      "properties" : {
+        "OID" : 44, 
+        "FACILITYID" : "1290", 
+        "COMMONNAME" : "pine, Austrian", 
+        "HEIGHT" : 31, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5399058396841, 35.7181589999411
+        ]
+      }, 
+      "properties" : {
+        "OID" : 45, 
+        "FACILITYID" : "1031", 
+        "COMMONNAME" : "magnolia, southern", 
+        "HEIGHT" : 25, 
+        "DBH" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7385326563584, 35.8492806093159
+        ]
+      }, 
+      "properties" : {
+        "OID" : 46, 
+        "FACILITYID" : "1837", 
+        "COMMONNAME" : "cypress, sawara false", 
+        "HEIGHT" : 27, 
+        "DBH" : 43
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5385230178244, 35.8290785653267
+        ]
+      }, 
+      "properties" : {
+        "OID" : 47, 
+        "FACILITYID" : "1965", 
+        "COMMONNAME" : "hornbeam, European", 
+        "HEIGHT" : 38, 
+        "DBH" : 24
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7126967257747, 35.7712177128304
+        ]
+      }, 
+      "properties" : {
+        "OID" : 48, 
+        "FACILITYID" : "1030", 
+        "COMMONNAME" : "birch, European white", 
+        "HEIGHT" : 43, 
+        "DBH" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6520841555607, 35.7859520739323
+        ]
+      }, 
+      "properties" : {
+        "OID" : 49, 
+        "FACILITYID" : "1007", 
+        "COMMONNAME" : "dogwood, roughleaf", 
+        "HEIGHT" : 37, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6033848613237, 35.8722121667613
+        ]
+      }, 
+      "properties" : {
+        "OID" : 50, 
+        "FACILITYID" : "1070", 
+        "COMMONNAME" : "hickory, bitternut", 
+        "HEIGHT" : 30, 
+        "DBH" : 36
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7636136285675, 35.8936782951205
+        ]
+      }, 
+      "properties" : {
+        "OID" : 51, 
+        "FACILITYID" : "1280", 
+        "COMMONNAME" : "hemlock, eastern", 
+        "HEIGHT" : 47, 
+        "DBH" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6653498104468, 35.7659628248277
+        ]
+      }, 
+      "properties" : {
+        "OID" : 52, 
+        "FACILITYID" : "1255", 
+        "COMMONNAME" : "hornbeam, European", 
+        "HEIGHT" : 65, 
+        "DBH" : 27
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.619967532477, 35.8884577549247
+        ]
+      }, 
+      "properties" : {
+        "OID" : 53, 
+        "FACILITYID" : "1835", 
+        "COMMONNAME" : "hawthorn, cockspur", 
+        "HEIGHT" : 78, 
+        "DBH" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6345092273204, 35.7932231088626
+        ]
+      }, 
+      "properties" : {
+        "OID" : 54, 
+        "FACILITYID" : "1915", 
+        "COMMONNAME" : "magnolia, star", 
+        "HEIGHT" : 93, 
+        "DBH" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6331236229583, 35.8252183171749
+        ]
+      }, 
+      "properties" : {
+        "OID" : 55, 
+        "FACILITYID" : "1576", 
+        "COMMONNAME" : "cherry, cornelian", 
+        "HEIGHT" : 11, 
+        "DBH" : 15
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5963471420084, 35.7597148721469
+        ]
+      }, 
+      "properties" : {
+        "OID" : 56, 
+        "FACILITYID" : "1903", 
+        "COMMONNAME" : "willow, black", 
+        "HEIGHT" : 68, 
+        "DBH" : 13
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5977428385625, 35.7717857713995
+        ]
+      }, 
+      "properties" : {
+        "OID" : 57, 
+        "FACILITYID" : "1995", 
+        "COMMONNAME" : "chestnut, American", 
+        "HEIGHT" : 27, 
+        "DBH" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5066299940804, 35.8668656612245
+        ]
+      }, 
+      "properties" : {
+        "OID" : 58, 
+        "FACILITYID" : "1605", 
+        "COMMONNAME" : "apricot, Japanese", 
+        "HEIGHT" : 66, 
+        "DBH" : 38
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6458147702368, 35.7501613650581
+        ]
+      }, 
+      "properties" : {
+        "OID" : 59, 
+        "FACILITYID" : "1882", 
+        "COMMONNAME" : "birch, paper", 
+        "HEIGHT" : 35, 
+        "DBH" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7010284287204, 35.8740309619625
+        ]
+      }, 
+      "properties" : {
+        "OID" : 60, 
+        "FACILITYID" : "1656", 
+        "COMMONNAME" : "pine, lacebark", 
+        "HEIGHT" : 62, 
+        "DBH" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6614140318335, 35.8927794721981
+        ]
+      }, 
+      "properties" : {
+        "OID" : 61, 
+        "FACILITYID" : "1987", 
+        "COMMONNAME" : "olive, autumn", 
+        "HEIGHT" : 77, 
+        "DBH" : 36
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5505510302073, 35.9464258731587
+        ]
+      }, 
+      "properties" : {
+        "OID" : 62, 
+        "FACILITYID" : "1885", 
+        "COMMONNAME" : "Rose-of-sharon", 
+        "HEIGHT" : 74, 
+        "DBH" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7079866137926, 35.8292951490551
+        ]
+      }, 
+      "properties" : {
+        "OID" : 63, 
+        "FACILITYID" : "1583", 
+        "COMMONNAME" : "hickory, pignut", 
+        "HEIGHT" : 26, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.67643198425, 35.8934476127204
+        ]
+      }, 
+      "properties" : {
+        "OID" : 64, 
+        "FACILITYID" : "1818", 
+        "COMMONNAME" : "oak, live", 
+        "HEIGHT" : 73, 
+        "DBH" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6054344495416, 35.8502215690733
+        ]
+      }, 
+      "properties" : {
+        "OID" : 65, 
+        "FACILITYID" : "1264", 
+        "COMMONNAME" : "oak, overcup", 
+        "HEIGHT" : 71, 
+        "DBH" : 27
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7313842017209, 35.8821989573192
+        ]
+      }, 
+      "properties" : {
+        "OID" : 66, 
+        "FACILITYID" : "1607", 
+        "COMMONNAME" : "catalpa, northern", 
+        "HEIGHT" : 41, 
+        "DBH" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5418529762352, 35.7497106904992
+        ]
+      }, 
+      "properties" : {
+        "OID" : 67, 
+        "FACILITYID" : "1036", 
+        "COMMONNAME" : "juniper, Chinese", 
+        "HEIGHT" : 83, 
+        "DBH" : 13
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7196311840333, 35.8588589736659
+        ]
+      }, 
+      "properties" : {
+        "OID" : 68, 
+        "FACILITYID" : "1161", 
+        "COMMONNAME" : "maple, paperbark", 
+        "HEIGHT" : 48, 
+        "DBH" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5764337192421, 35.7129266066808
+        ]
+      }, 
+      "properties" : {
+        "OID" : 69, 
+        "FACILITYID" : "1918", 
+        "COMMONNAME" : "maple, purpleblow", 
+        "HEIGHT" : 22, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7549095185608, 35.9060785512873
+        ]
+      }, 
+      "properties" : {
+        "OID" : 70, 
+        "FACILITYID" : "1438", 
+        "COMMONNAME" : "oak, willow", 
+        "HEIGHT" : 52, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6507650083998, 35.7805068282308
+        ]
+      }, 
+      "properties" : {
+        "OID" : 71, 
+        "FACILITYID" : "1430", 
+        "COMMONNAME" : "oak, shumard", 
+        "HEIGHT" : 13, 
+        "DBH" : 34
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5194822540042, 35.8892902024841
+        ]
+      }, 
+      "properties" : {
+        "OID" : 72, 
+        "FACILITYID" : "1864", 
+        "COMMONNAME" : "silverbell, mountain", 
+        "HEIGHT" : 90, 
+        "DBH" : 42
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7058559777726, 35.773879315781
+        ]
+      }, 
+      "properties" : {
+        "OID" : 73, 
+        "FACILITYID" : "1428", 
+        "COMMONNAME" : "oak, pin", 
+        "HEIGHT" : 96, 
+        "DBH" : 6
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6635936440329, 35.8462981615341
+        ]
+      }, 
+      "properties" : {
+        "OID" : 74, 
+        "FACILITYID" : "1241", 
+        "COMMONNAME" : "pine, limber", 
+        "HEIGHT" : 25, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7975906099202, 35.9195681103832
+        ]
+      }, 
+      "properties" : {
+        "OID" : 75, 
+        "FACILITYID" : "1953", 
+        "COMMONNAME" : "hickory, bitternut", 
+        "HEIGHT" : 27, 
+        "DBH" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6872535498129, 35.8127699131042
+        ]
+      }, 
+      "properties" : {
+        "OID" : 76, 
+        "FACILITYID" : "1861", 
+        "COMMONNAME" : "oak, scarlet", 
+        "HEIGHT" : 52, 
+        "DBH" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5837570155752, 35.7823064966507
+        ]
+      }, 
+      "properties" : {
+        "OID" : 77, 
+        "FACILITYID" : "1180", 
+        "COMMONNAME" : "crabapple, southern", 
+        "HEIGHT" : 83, 
+        "DBH" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7141300040978, 35.9070092974443
+        ]
+      }, 
+      "properties" : {
+        "OID" : 78, 
+        "FACILITYID" : "1906", 
+        "COMMONNAME" : "pine, shortleaf", 
+        "HEIGHT" : 16, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6431250194055, 35.9079475448465
+        ]
+      }, 
+      "properties" : {
+        "OID" : 79, 
+        "FACILITYID" : "1801", 
+        "COMMONNAME" : "pine, Scotch", 
+        "HEIGHT" : 87, 
+        "DBH" : 43
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5784173745636, 35.7591365927828
+        ]
+      }, 
+      "properties" : {
+        "OID" : 80, 
+        "FACILITYID" : "1064", 
+        "COMMONNAME" : "hickory, bitternut", 
+        "HEIGHT" : 94, 
+        "DBH" : 27
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7179187606437, 35.9032686420374
+        ]
+      }, 
+      "properties" : {
+        "OID" : 81, 
+        "FACILITYID" : "1815", 
+        "COMMONNAME" : "yaupon", 
+        "HEIGHT" : 43, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5455335785132, 35.8606577958238
+        ]
+      }, 
+      "properties" : {
+        "OID" : 82, 
+        "FACILITYID" : "1422", 
+        "COMMONNAME" : "pine, lacebark", 
+        "HEIGHT" : 29, 
+        "DBH" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7609488069432, 35.838427948794
+        ]
+      }, 
+      "properties" : {
+        "OID" : 83, 
+        "FACILITYID" : "1636", 
+        "COMMONNAME" : "maackia, Amur", 
+        "HEIGHT" : 47, 
+        "DBH" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7910724370447, 35.9166888382225
+        ]
+      }, 
+      "properties" : {
+        "OID" : 84, 
+        "FACILITYID" : "1021", 
+        "COMMONNAME" : "dogwood, kousa", 
+        "HEIGHT" : 15, 
+        "DBH" : 24
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5709928361518, 35.7568482498501
+        ]
+      }, 
+      "properties" : {
+        "OID" : 85, 
+        "FACILITYID" : "1603", 
+        "COMMONNAME" : "hickory, shagbark", 
+        "HEIGHT" : 13, 
+        "DBH" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6745066058965, 35.8250546666428
+        ]
+      }, 
+      "properties" : {
+        "OID" : 86, 
+        "FACILITYID" : "1382", 
+        "COMMONNAME" : "oak, pin", 
+        "HEIGHT" : 90, 
+        "DBH" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6734364450373, 35.7833177546139
+        ]
+      }, 
+      "properties" : {
+        "OID" : 87, 
+        "FACILITYID" : "1945", 
+        "COMMONNAME" : "hickory, shagbark", 
+        "HEIGHT" : 49, 
+        "DBH" : 42
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6162632699354, 35.8412285959262
+        ]
+      }, 
+      "properties" : {
+        "OID" : 88, 
+        "FACILITYID" : "1103", 
+        "COMMONNAME" : "oak, turkey", 
+        "HEIGHT" : 14, 
+        "DBH" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5471421472937, 35.7224891483587
+        ]
+      }, 
+      "properties" : {
+        "OID" : 89, 
+        "FACILITYID" : "1399", 
+        "COMMONNAME" : "cherry, pin", 
+        "HEIGHT" : 97, 
+        "DBH" : 37
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6927290532046, 35.7234529814731
+        ]
+      }, 
+      "properties" : {
+        "OID" : 90, 
+        "FACILITYID" : "1300", 
+        "COMMONNAME" : "olive, Russian", 
+        "HEIGHT" : 79, 
+        "DBH" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5988728960687, 35.8291219117501
+        ]
+      }, 
+      "properties" : {
+        "OID" : 91, 
+        "FACILITYID" : "1104", 
+        "COMMONNAME" : "cherry, cornelian", 
+        "HEIGHT" : 15, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5700411762606, 35.9034372595252
+        ]
+      }, 
+      "properties" : {
+        "OID" : 92, 
+        "FACILITYID" : "1085", 
+        "COMMONNAME" : "fig, common", 
+        "HEIGHT" : 64, 
+        "DBH" : 43
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7521184644969, 35.9059453940679
+        ]
+      }, 
+      "properties" : {
+        "OID" : 93, 
+        "FACILITYID" : "1397", 
+        "COMMONNAME" : "maple, sugar", 
+        "HEIGHT" : 44, 
+        "DBH" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5447219574538, 35.8604641322171
+        ]
+      }, 
+      "properties" : {
+        "OID" : 94, 
+        "FACILITYID" : "1073", 
+        "COMMONNAME" : "blackgum", 
+        "HEIGHT" : 25, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5860141016709, 35.8146606567672
+        ]
+      }, 
+      "properties" : {
+        "OID" : 95, 
+        "FACILITYID" : "1083", 
+        "COMMONNAME" : "sweetgum", 
+        "HEIGHT" : 71, 
+        "DBH" : 39
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5162343371463, 35.8312553356684
+        ]
+      }, 
+      "properties" : {
+        "OID" : 96, 
+        "FACILITYID" : "1498", 
+        "COMMONNAME" : "crabapple, sweet", 
+        "HEIGHT" : 84, 
+        "DBH" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5631176267784, 35.8255795451631
+        ]
+      }, 
+      "properties" : {
+        "OID" : 97, 
+        "FACILITYID" : "1974", 
+        "COMMONNAME" : "boxelder", 
+        "HEIGHT" : 33, 
+        "DBH" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7219880301249, 35.8452897984887
+        ]
+      }, 
+      "properties" : {
+        "OID" : 98, 
+        "FACILITYID" : "1482", 
+        "COMMONNAME" : "oak, black", 
+        "HEIGHT" : 13, 
+        "DBH" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5546542886659, 35.8983106256381
+        ]
+      }, 
+      "properties" : {
+        "OID" : 99, 
+        "FACILITYID" : "1677", 
+        "COMMONNAME" : "elm, slippery", 
+        "HEIGHT" : 39, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5894074532927, 35.84292676686
+        ]
+      }, 
+      "properties" : {
+        "OID" : 100, 
+        "FACILITYID" : "1689", 
+        "COMMONNAME" : "willow, black", 
+        "HEIGHT" : 91, 
+        "DBH" : 15
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6332674146609, 35.7693640778931
+        ]
+      }, 
+      "properties" : {
+        "OID" : 101, 
+        "FACILITYID" : "1646", 
+        "COMMONNAME" : "planetree, London", 
+        "HEIGHT" : 59, 
+        "DBH" : 34
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7548918810568, 35.873222239418
+        ]
+      }, 
+      "properties" : {
+        "OID" : 102, 
+        "FACILITYID" : "1887", 
+        "COMMONNAME" : "elm, slippery", 
+        "HEIGHT" : 85, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6167338923566, 35.7635741148567
+        ]
+      }, 
+      "properties" : {
+        "OID" : 103, 
+        "FACILITYID" : "1597", 
+        "COMMONNAME" : "fringetree, Chinese", 
+        "HEIGHT" : 69, 
+        "DBH" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7028090665866, 35.8515978978279
+        ]
+      }, 
+      "properties" : {
+        "OID" : 104, 
+        "FACILITYID" : "1561", 
+        "COMMONNAME" : "goldenrain tree", 
+        "HEIGHT" : 66, 
+        "DBH" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5497378758037, 35.7180096612202
+        ]
+      }, 
+      "properties" : {
+        "OID" : 105, 
+        "FACILITYID" : "1547", 
+        "COMMONNAME" : "sycamore, American", 
+        "HEIGHT" : 23, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6819372632954, 35.8937273774198
+        ]
+      }, 
+      "properties" : {
+        "OID" : 106, 
+        "FACILITYID" : "1139", 
+        "COMMONNAME" : "sassafras", 
+        "HEIGHT" : 99, 
+        "DBH" : 43
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5815738213761, 35.9271279931656
+        ]
+      }, 
+      "properties" : {
+        "OID" : 107, 
+        "FACILITYID" : "1379", 
+        "COMMONNAME" : "elm, Chinese", 
+        "HEIGHT" : 84, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.555504208254, 35.7973324107654
+        ]
+      }, 
+      "properties" : {
+        "OID" : 108, 
+        "FACILITYID" : "1317", 
+        "COMMONNAME" : "birch, European white", 
+        "HEIGHT" : 23, 
+        "DBH" : 48
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6710470219039, 35.8465502262152
+        ]
+      }, 
+      "properties" : {
+        "OID" : 109, 
+        "FACILITYID" : "1497", 
+        "COMMONNAME" : "olive, autumn", 
+        "HEIGHT" : 14, 
+        "DBH" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5573383054198, 35.7949875895089
+        ]
+      }, 
+      "properties" : {
+        "OID" : 110, 
+        "FACILITYID" : "1819", 
+        "COMMONNAME" : "cryptomeria, Japanese", 
+        "HEIGHT" : 97, 
+        "DBH" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7908179414962, 35.9120441411274
+        ]
+      }, 
+      "properties" : {
+        "OID" : 111, 
+        "FACILITYID" : "1553", 
+        "COMMONNAME" : "pine, pitch", 
+        "HEIGHT" : 74, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5673181172387, 35.8566541849459
+        ]
+      }, 
+      "properties" : {
+        "OID" : 112, 
+        "FACILITYID" : "1513", 
+        "COMMONNAME" : "maple, Japanese", 
+        "HEIGHT" : 33, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6862911178422, 35.8626775031675
+        ]
+      }, 
+      "properties" : {
+        "OID" : 113, 
+        "FACILITYID" : "1586", 
+        "COMMONNAME" : "elm, Chinese", 
+        "HEIGHT" : 49, 
+        "DBH" : 20
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5691914077586, 35.7617330416498
+        ]
+      }, 
+      "properties" : {
+        "OID" : 114, 
+        "FACILITYID" : "1166", 
+        "COMMONNAME" : "yaupon", 
+        "HEIGHT" : 27, 
+        "DBH" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6862225993949, 35.8943741464529
+        ]
+      }, 
+      "properties" : {
+        "OID" : 115, 
+        "FACILITYID" : "1810", 
+        "COMMONNAME" : "maple, sugar", 
+        "HEIGHT" : 84, 
+        "DBH" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6887509578918, 35.8436236856878
+        ]
+      }, 
+      "properties" : {
+        "OID" : 116, 
+        "FACILITYID" : "1952", 
+        "COMMONNAME" : "cedar, incense", 
+        "HEIGHT" : 30, 
+        "DBH" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7985405512069, 35.8866951682506
+        ]
+      }, 
+      "properties" : {
+        "OID" : 117, 
+        "FACILITYID" : "1913", 
+        "COMMONNAME" : "oak, laurel", 
+        "HEIGHT" : 50, 
+        "DBH" : 27
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7467060053792, 35.8444391441544
+        ]
+      }, 
+      "properties" : {
+        "OID" : 118, 
+        "FACILITYID" : "1912", 
+        "COMMONNAME" : "birch, gray", 
+        "HEIGHT" : 63, 
+        "DBH" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6987896312379, 35.7421888769184
+        ]
+      }, 
+      "properties" : {
+        "OID" : 119, 
+        "FACILITYID" : "1966", 
+        "COMMONNAME" : "cedar, Atlas", 
+        "HEIGHT" : 99, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7972787771952, 35.9175440440256
+        ]
+      }, 
+      "properties" : {
+        "OID" : 120, 
+        "FACILITYID" : "1473", 
+        "COMMONNAME" : "cherry, Japanese", 
+        "HEIGHT" : 19, 
+        "DBH" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5046881734218, 35.8282430888507
+        ]
+      }, 
+      "properties" : {
+        "OID" : 121, 
+        "FACILITYID" : "1228", 
+        "COMMONNAME" : "maple, paperbark", 
+        "HEIGHT" : 45, 
+        "DBH" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6058309183636, 35.8817501074847
+        ]
+      }, 
+      "properties" : {
+        "OID" : 122, 
+        "FACILITYID" : "1491", 
+        "COMMONNAME" : "maple, Norway", 
+        "HEIGHT" : 48, 
+        "DBH" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5937345799883, 35.9042240404104
+        ]
+      }, 
+      "properties" : {
+        "OID" : 123, 
+        "FACILITYID" : "1520", 
+        "COMMONNAME" : "sourwood", 
+        "HEIGHT" : 90, 
+        "DBH" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7209671692009, 35.8330863157841
+        ]
+      }, 
+      "properties" : {
+        "OID" : 124, 
+        "FACILITYID" : "1744", 
+        "COMMONNAME" : "Rose-of-sharon", 
+        "HEIGHT" : 90, 
+        "DBH" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5713855583982, 35.9355138043218
+        ]
+      }, 
+      "properties" : {
+        "OID" : 125, 
+        "FACILITYID" : "1265", 
+        "COMMONNAME" : "pine, shortleaf", 
+        "HEIGHT" : 24, 
+        "DBH" : 39
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7222300080099, 35.8356411728051
+        ]
+      }, 
+      "properties" : {
+        "OID" : 126, 
+        "FACILITYID" : "1331", 
+        "COMMONNAME" : "elm, Siberian", 
+        "HEIGHT" : 9, 
+        "DBH" : 9
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6483666711863, 35.8156757134666
+        ]
+      }, 
+      "properties" : {
+        "OID" : 127, 
+        "FACILITYID" : "1372", 
+        "COMMONNAME" : "paulownia, royal", 
+        "HEIGHT" : 69, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6010987819846, 35.7820234782041
+        ]
+      }, 
+      "properties" : {
+        "OID" : 128, 
+        "FACILITYID" : "1797", 
+        "COMMONNAME" : "birch, European white", 
+        "HEIGHT" : 93, 
+        "DBH" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6346343841709, 35.7848562140462
+        ]
+      }, 
+      "properties" : {
+        "OID" : 129, 
+        "FACILITYID" : "1673", 
+        "COMMONNAME" : "olive, autumn", 
+        "HEIGHT" : 87, 
+        "DBH" : 20
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5900694343583, 35.9204488857107
+        ]
+      }, 
+      "properties" : {
+        "OID" : 130, 
+        "FACILITYID" : "1821", 
+        "COMMONNAME" : "oak, northern red", 
+        "HEIGHT" : 57, 
+        "DBH" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5540922258769, 35.8058985413878
+        ]
+      }, 
+      "properties" : {
+        "OID" : 131, 
+        "FACILITYID" : "1691", 
+        "COMMONNAME" : "oak, nutall", 
+        "HEIGHT" : 27, 
+        "DBH" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.68505302298, 35.7467520028059
+        ]
+      }, 
+      "properties" : {
+        "OID" : 132, 
+        "FACILITYID" : "1039", 
+        "COMMONNAME" : "poplar, tulip", 
+        "HEIGHT" : 51, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6710840460933, 35.8324630379421
+        ]
+      }, 
+      "properties" : {
+        "OID" : 133, 
+        "FACILITYID" : "1976", 
+        "COMMONNAME" : "hackberry, northern", 
+        "HEIGHT" : 12, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6395395105413, 35.7820349535535
+        ]
+      }, 
+      "properties" : {
+        "OID" : 134, 
+        "FACILITYID" : "1591", 
+        "COMMONNAME" : "maple, trident", 
+        "HEIGHT" : 61, 
+        "DBH" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6673950576372, 35.9024187017649
+        ]
+      }, 
+      "properties" : {
+        "OID" : 135, 
+        "FACILITYID" : "1271", 
+        "COMMONNAME" : "oak, scarlet", 
+        "HEIGHT" : 58, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6959247446326, 35.737031401681
+        ]
+      }, 
+      "properties" : {
+        "OID" : 136, 
+        "FACILITYID" : "1190", 
+        "COMMONNAME" : "buckeye, yellow", 
+        "HEIGHT" : 38, 
+        "DBH" : 25
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.551970531816, 35.7144914378328
+        ]
+      }, 
+      "properties" : {
+        "OID" : 137, 
+        "FACILITYID" : "1096", 
+        "COMMONNAME" : "mulberry, red", 
+        "HEIGHT" : 8, 
+        "DBH" : 20
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5744632551765, 35.8893432975584
+        ]
+      }, 
+      "properties" : {
+        "OID" : 138, 
+        "FACILITYID" : "1173", 
+        "COMMONNAME" : "cypress, Italian", 
+        "HEIGHT" : 81, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6564509999151, 35.747565968398
+        ]
+      }, 
+      "properties" : {
+        "OID" : 139, 
+        "FACILITYID" : "1138", 
+        "COMMONNAME" : "oak, scarlet", 
+        "HEIGHT" : 99, 
+        "DBH" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6714573690637, 35.7613413104563
+        ]
+      }, 
+      "properties" : {
+        "OID" : 140, 
+        "FACILITYID" : "1759", 
+        "COMMONNAME" : "catalpa, northern", 
+        "HEIGHT" : 18, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6300077769387, 35.8123287021111
+        ]
+      }, 
+      "properties" : {
+        "OID" : 141, 
+        "FACILITYID" : "1721", 
+        "COMMONNAME" : "oak, chestnut", 
+        "HEIGHT" : 89, 
+        "DBH" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6961620775193, 35.8838420168988
+        ]
+      }, 
+      "properties" : {
+        "OID" : 142, 
+        "FACILITYID" : "1323", 
+        "COMMONNAME" : "dogwood, roughleaf", 
+        "HEIGHT" : 8, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7300171045072, 35.7951833233549
+        ]
+      }, 
+      "properties" : {
+        "OID" : 143, 
+        "FACILITYID" : "1270", 
+        "COMMONNAME" : "holly, Foster's", 
+        "HEIGHT" : 58, 
+        "DBH" : 41
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6967382686576, 35.909383798127
+        ]
+      }, 
+      "properties" : {
+        "OID" : 144, 
+        "FACILITYID" : "1353", 
+        "COMMONNAME" : "oak, nutall", 
+        "HEIGHT" : 99, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5714929338532, 35.9489672088728
+        ]
+      }, 
+      "properties" : {
+        "OID" : 145, 
+        "FACILITYID" : "1055", 
+        "COMMONNAME" : "yaupon", 
+        "HEIGHT" : 61, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7983321944766, 35.9075430378841
+        ]
+      }, 
+      "properties" : {
+        "OID" : 146, 
+        "FACILITYID" : "1924", 
+        "COMMONNAME" : "chestnut, Chinese", 
+        "HEIGHT" : 10, 
+        "DBH" : 15
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7636049770894, 35.895554243137
+        ]
+      }, 
+      "properties" : {
+        "OID" : 147, 
+        "FACILITYID" : "1095", 
+        "COMMONNAME" : "catalpa, southern", 
+        "HEIGHT" : 98, 
+        "DBH" : 35
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5854021831656, 35.7562484155352
+        ]
+      }, 
+      "properties" : {
+        "OID" : 148, 
+        "FACILITYID" : "1834", 
+        "COMMONNAME" : "mulberry, white", 
+        "HEIGHT" : 38, 
+        "DBH" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.585113057423, 35.8064063642655
+        ]
+      }, 
+      "properties" : {
+        "OID" : 149, 
+        "FACILITYID" : "1027", 
+        "COMMONNAME" : "oak, shumard", 
+        "HEIGHT" : 91, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5594345054995, 35.7273017290948
+        ]
+      }, 
+      "properties" : {
+        "OID" : 150, 
+        "FACILITYID" : "1784", 
+        "COMMONNAME" : "olive, autumn", 
+        "HEIGHT" : 34, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7300611928711, 35.8239919989348
+        ]
+      }, 
+      "properties" : {
+        "OID" : 151, 
+        "FACILITYID" : "1676", 
+        "COMMONNAME" : "yaupon", 
+        "HEIGHT" : 8, 
+        "DBH" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7400929953969, 35.7831042933317
+        ]
+      }, 
+      "properties" : {
+        "OID" : 152, 
+        "FACILITYID" : "1182", 
+        "COMMONNAME" : "elm, Siberian", 
+        "HEIGHT" : 51, 
+        "DBH" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5444465032049, 35.7893509383984
+        ]
+      }, 
+      "properties" : {
+        "OID" : 153, 
+        "FACILITYID" : "1142", 
+        "COMMONNAME" : "hickory, mockernut", 
+        "HEIGHT" : 18, 
+        "DBH" : 39
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7188536526753, 35.8645754333128
+        ]
+      }, 
+      "properties" : {
+        "OID" : 154, 
+        "FACILITYID" : "1635", 
+        "COMMONNAME" : "plum, flowering", 
+        "HEIGHT" : 66, 
+        "DBH" : 43
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5489603048756, 35.8184871767451
+        ]
+      }, 
+      "properties" : {
+        "OID" : 155, 
+        "FACILITYID" : "1536", 
+        "COMMONNAME" : "maple, Norway", 
+        "HEIGHT" : 69, 
+        "DBH" : 8
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5776250538545, 35.8670802088878
+        ]
+      }, 
+      "properties" : {
+        "OID" : 156, 
+        "FACILITYID" : "1786", 
+        "COMMONNAME" : "birch, European white", 
+        "HEIGHT" : 54, 
+        "DBH" : 34
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6159943537578, 35.7931364735726
+        ]
+      }, 
+      "properties" : {
+        "OID" : 157, 
+        "FACILITYID" : "1315", 
+        "COMMONNAME" : "sycamore, American", 
+        "HEIGHT" : 52, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7320507999059, 35.8620848319526
+        ]
+      }, 
+      "properties" : {
+        "OID" : 158, 
+        "FACILITYID" : "1109", 
+        "COMMONNAME" : "willow, black", 
+        "HEIGHT" : 7, 
+        "DBH" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6052590988297, 35.7416601510983
+        ]
+      }, 
+      "properties" : {
+        "OID" : 159, 
+        "FACILITYID" : "1649", 
+        "COMMONNAME" : "oak, turkey", 
+        "HEIGHT" : 57, 
+        "DBH" : 25
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5640086669678, 35.7956996781009
+        ]
+      }, 
+      "properties" : {
+        "OID" : 160, 
+        "FACILITYID" : "1781", 
+        "COMMONNAME" : "cedar, incense", 
+        "HEIGHT" : 62, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5594021532882, 35.9103762728499
+        ]
+      }, 
+      "properties" : {
+        "OID" : 161, 
+        "FACILITYID" : "1500", 
+        "COMMONNAME" : "cedar, Atlantic white", 
+        "HEIGHT" : 67, 
+        "DBH" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6541548643569, 35.9073844028711
+        ]
+      }, 
+      "properties" : {
+        "OID" : 162, 
+        "FACILITYID" : "1343", 
+        "COMMONNAME" : "walnut, black", 
+        "HEIGHT" : 85, 
+        "DBH" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5545036962899, 35.9645348817826
+        ]
+      }, 
+      "properties" : {
+        "OID" : 163, 
+        "FACILITYID" : "1462", 
+        "COMMONNAME" : "pistache, Chinese", 
+        "HEIGHT" : 34, 
+        "DBH" : 9
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6669838561214, 35.7336325453089
+        ]
+      }, 
+      "properties" : {
+        "OID" : 164, 
+        "FACILITYID" : "1248", 
+        "COMMONNAME" : "serviceberry, smooth", 
+        "HEIGHT" : 61, 
+        "DBH" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6757677180072, 35.8619213981572
+        ]
+      }, 
+      "properties" : {
+        "OID" : 165, 
+        "FACILITYID" : "1268", 
+        "COMMONNAME" : "olive, Russian", 
+        "HEIGHT" : 55, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6166807388264, 35.8835728929778
+        ]
+      }, 
+      "properties" : {
+        "OID" : 166, 
+        "FACILITYID" : "1857", 
+        "COMMONNAME" : "crabapple, sweet", 
+        "HEIGHT" : 11, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5325615288928, 35.8564459055573
+        ]
+      }, 
+      "properties" : {
+        "OID" : 167, 
+        "FACILITYID" : "1770", 
+        "COMMONNAME" : "Chinaberry", 
+        "HEIGHT" : 29, 
+        "DBH" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7114351882847, 35.7454098716714
+        ]
+      }, 
+      "properties" : {
+        "OID" : 168, 
+        "FACILITYID" : "1457", 
+        "COMMONNAME" : "serviceberry, smooth", 
+        "HEIGHT" : 89, 
+        "DBH" : 25
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7971337399316, 35.8922391307345
+        ]
+      }, 
+      "properties" : {
+        "OID" : 169, 
+        "FACILITYID" : "1364", 
+        "COMMONNAME" : "golden chain tree", 
+        "HEIGHT" : 13, 
+        "DBH" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7729124728338, 35.9024609348275
+        ]
+      }, 
+      "properties" : {
+        "OID" : 170, 
+        "FACILITYID" : "1285", 
+        "COMMONNAME" : "cedar, Atlantic white", 
+        "HEIGHT" : 66, 
+        "DBH" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.766568449176, 35.9166437048463
+        ]
+      }, 
+      "properties" : {
+        "OID" : 171, 
+        "FACILITYID" : "1334", 
+        "COMMONNAME" : "olive, autumn", 
+        "HEIGHT" : 8, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5426779432339, 35.8273245024271
+        ]
+      }, 
+      "properties" : {
+        "OID" : 172, 
+        "FACILITYID" : "1106", 
+        "COMMONNAME" : "hackberry, northern", 
+        "HEIGHT" : 22, 
+        "DBH" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.55449354834, 35.8698127170864
+        ]
+      }, 
+      "properties" : {
+        "OID" : 173, 
+        "FACILITYID" : "1765", 
+        "COMMONNAME" : "hazelnut, Turkish", 
+        "HEIGHT" : 88, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6505344510055, 35.79031631385
+        ]
+      }, 
+      "properties" : {
+        "OID" : 174, 
+        "FACILITYID" : "1634", 
+        "COMMONNAME" : "pistache, Chinese", 
+        "HEIGHT" : 81, 
+        "DBH" : 25
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6652591965561, 35.9019275325328
+        ]
+      }, 
+      "properties" : {
+        "OID" : 175, 
+        "FACILITYID" : "1540", 
+        "COMMONNAME" : "magnolia, saucer", 
+        "HEIGHT" : 56, 
+        "DBH" : 27
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5593147454805, 35.8588989197525
+        ]
+      }, 
+      "properties" : {
+        "OID" : 176, 
+        "FACILITYID" : "1230", 
+        "COMMONNAME" : "ash, blue", 
+        "HEIGHT" : 35, 
+        "DBH" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.727484087522, 35.7630429006126
+        ]
+      }, 
+      "properties" : {
+        "OID" : 177, 
+        "FACILITYID" : "1839", 
+        "COMMONNAME" : "hophornbeam, eastern", 
+        "HEIGHT" : 76, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6116526742329, 35.7340387654799
+        ]
+      }, 
+      "properties" : {
+        "OID" : 178, 
+        "FACILITYID" : "1617", 
+        "COMMONNAME" : "pine, shortleaf", 
+        "HEIGHT" : 17, 
+        "DBH" : 17
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5717263645814, 35.7172340121432
+        ]
+      }, 
+      "properties" : {
+        "OID" : 179, 
+        "FACILITYID" : "1645", 
+        "COMMONNAME" : "mulberry, white", 
+        "HEIGHT" : 93, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5280207025948, 35.8411020244421
+        ]
+      }, 
+      "properties" : {
+        "OID" : 180, 
+        "FACILITYID" : "1283", 
+        "COMMONNAME" : "pawpaw", 
+        "HEIGHT" : 19, 
+        "DBH" : 48
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6572177996631, 35.7437555112111
+        ]
+      }, 
+      "properties" : {
+        "OID" : 181, 
+        "FACILITYID" : "1584", 
+        "COMMONNAME" : "cedar, Atlas", 
+        "HEIGHT" : 42, 
+        "DBH" : 15
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7476156678302, 35.8909090532135
+        ]
+      }, 
+      "properties" : {
+        "OID" : 182, 
+        "FACILITYID" : "1176", 
+        "COMMONNAME" : "cedar, eastern red", 
+        "HEIGHT" : 68, 
+        "DBH" : 48
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5434134582659, 35.8546382664461
+        ]
+      }, 
+      "properties" : {
+        "OID" : 183, 
+        "FACILITYID" : "1874", 
+        "COMMONNAME" : "chestnut, Chinese", 
+        "HEIGHT" : 98, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6438637630037, 35.8582071351544
+        ]
+      }, 
+      "properties" : {
+        "OID" : 184, 
+        "FACILITYID" : "1961", 
+        "COMMONNAME" : "basswood, American", 
+        "HEIGHT" : 43, 
+        "DBH" : 37
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6096961091895, 35.8899828926995
+        ]
+      }, 
+      "properties" : {
+        "OID" : 185, 
+        "FACILITYID" : "1606", 
+        "COMMONNAME" : "linden, littleleaf", 
+        "HEIGHT" : 39, 
+        "DBH" : 38
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7116690479896, 35.7782517296368
+        ]
+      }, 
+      "properties" : {
+        "OID" : 186, 
+        "FACILITYID" : "1977", 
+        "COMMONNAME" : "cherry, pin", 
+        "HEIGHT" : 49, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5919621268521, 35.7849800012293
+        ]
+      }, 
+      "properties" : {
+        "OID" : 187, 
+        "FACILITYID" : "1538", 
+        "COMMONNAME" : "paulownia, royal", 
+        "HEIGHT" : 20, 
+        "DBH" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5420321616563, 35.8071294074994
+        ]
+      }, 
+      "properties" : {
+        "OID" : 188, 
+        "FACILITYID" : "1249", 
+        "COMMONNAME" : "serviceberry, downy", 
+        "HEIGHT" : 64, 
+        "DBH" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5732520446475, 35.7520049572662
+        ]
+      }, 
+      "properties" : {
+        "OID" : 189, 
+        "FACILITYID" : "1647", 
+        "COMMONNAME" : "hemlock, eastern", 
+        "HEIGHT" : 97, 
+        "DBH" : 36
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6570193390726, 35.8813766478172
+        ]
+      }, 
+      "properties" : {
+        "OID" : 190, 
+        "FACILITYID" : "1191", 
+        "COMMONNAME" : "cypress, Italian", 
+        "HEIGHT" : 96, 
+        "DBH" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5367212764671, 35.8978767108447
+        ]
+      }, 
+      "properties" : {
+        "OID" : 191, 
+        "FACILITYID" : "1047", 
+        "COMMONNAME" : "serviceberry, eastern", 
+        "HEIGHT" : 68, 
+        "DBH" : 37
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7460693519204, 35.7808113467695
+        ]
+      }, 
+      "properties" : {
+        "OID" : 192, 
+        "FACILITYID" : "1338", 
+        "COMMONNAME" : "persimmon, common", 
+        "HEIGHT" : 33, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5187019563316, 35.8717532436205
+        ]
+      }, 
+      "properties" : {
+        "OID" : 193, 
+        "FACILITYID" : "1259", 
+        "COMMONNAME" : "maple, paperbark", 
+        "HEIGHT" : 15, 
+        "DBH" : 40
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5612911135954, 35.76756221153
+        ]
+      }, 
+      "properties" : {
+        "OID" : 194, 
+        "FACILITYID" : "1623", 
+        "COMMONNAME" : "birch, paper", 
+        "HEIGHT" : 57, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6625773480675, 35.7599690709191
+        ]
+      }, 
+      "properties" : {
+        "OID" : 195, 
+        "FACILITYID" : "1655", 
+        "COMMONNAME" : "magnolia, saucer", 
+        "HEIGHT" : 14, 
+        "DBH" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7642075003772, 35.906689317761
+        ]
+      }, 
+      "properties" : {
+        "OID" : 196, 
+        "FACILITYID" : "1335", 
+        "COMMONNAME" : "elm, Siberian", 
+        "HEIGHT" : 69, 
+        "DBH" : 17
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7528719848556, 35.9282454268882
+        ]
+      }, 
+      "properties" : {
+        "OID" : 197, 
+        "FACILITYID" : "1856", 
+        "COMMONNAME" : "buckeye, yellow", 
+        "HEIGHT" : 73, 
+        "DBH" : 35
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6703912767374, 35.8784411986057
+        ]
+      }, 
+      "properties" : {
+        "OID" : 198, 
+        "FACILITYID" : "1958", 
+        "COMMONNAME" : "cherry, black", 
+        "HEIGHT" : 20, 
+        "DBH" : 33
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5875914181108, 35.8823269245511
+        ]
+      }, 
+      "properties" : {
+        "OID" : 199, 
+        "FACILITYID" : "1971", 
+        "COMMONNAME" : "sourwood", 
+        "HEIGHT" : 43, 
+        "DBH" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5487619629956, 35.7692871301002
+        ]
+      }, 
+      "properties" : {
+        "OID" : 200, 
+        "FACILITYID" : "1328", 
+        "COMMONNAME" : "oak, swamp white", 
+        "HEIGHT" : 67, 
+        "DBH" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5652700875459, 35.8141003125826
+        ]
+      }, 
+      "properties" : {
+        "OID" : 201, 
+        "FACILITYID" : "1437", 
+        "COMMONNAME" : "crapemyrtle, common", 
+        "HEIGHT" : 62, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7354978140742, 35.826768926448
+        ]
+      }, 
+      "properties" : {
+        "OID" : 202, 
+        "FACILITYID" : "1172", 
+        "COMMONNAME" : "oak, scarlet", 
+        "HEIGHT" : 88, 
+        "DBH" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5819654797245, 35.828400001662
+        ]
+      }, 
+      "properties" : {
+        "OID" : 203, 
+        "FACILITYID" : "1157", 
+        "COMMONNAME" : "planetree, London", 
+        "HEIGHT" : 88, 
+        "DBH" : 21
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5548711583787, 35.8403969091932
+        ]
+      }, 
+      "properties" : {
+        "OID" : 204, 
+        "FACILITYID" : "1899", 
+        "COMMONNAME" : "holly, Chinese", 
+        "HEIGHT" : 31, 
+        "DBH" : 13
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5689835006894, 35.9458664984433
+        ]
+      }, 
+      "properties" : {
+        "OID" : 205, 
+        "FACILITYID" : "1066", 
+        "COMMONNAME" : "crabapple, Japanese flowering", 
+        "HEIGHT" : 61, 
+        "DBH" : 39
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7584416868358, 35.9101293208147
+        ]
+      }, 
+      "properties" : {
+        "OID" : 206, 
+        "FACILITYID" : "1928", 
+        "COMMONNAME" : "serviceberry, smooth", 
+        "HEIGHT" : 77, 
+        "DBH" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5291676376777, 35.7361257412132
+        ]
+      }, 
+      "properties" : {
+        "OID" : 207, 
+        "FACILITYID" : "1930", 
+        "COMMONNAME" : "magnolia, star", 
+        "HEIGHT" : 38, 
+        "DBH" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6404126865976, 35.7892995367474
+        ]
+      }, 
+      "properties" : {
+        "OID" : 208, 
+        "FACILITYID" : "1560", 
+        "COMMONNAME" : "arborvitae", 
+        "HEIGHT" : 67, 
+        "DBH" : 5
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5692220665465, 35.8215998319699
+        ]
+      }, 
+      "properties" : {
+        "OID" : 209, 
+        "FACILITYID" : "1632", 
+        "COMMONNAME" : "hickory, pignut", 
+        "HEIGHT" : 67, 
+        "DBH" : 26
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5887799441405, 35.8096401662639
+        ]
+      }, 
+      "properties" : {
+        "OID" : 210, 
+        "FACILITYID" : "1087", 
+        "COMMONNAME" : "maple, paperbark", 
+        "HEIGHT" : 21, 
+        "DBH" : 19
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5249132013845, 35.8229918817731
+        ]
+      }, 
+      "properties" : {
+        "OID" : 211, 
+        "FACILITYID" : "1211", 
+        "COMMONNAME" : "cypress, Italian", 
+        "HEIGHT" : 62, 
+        "DBH" : 7
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6605511494174, 35.785460178048
+        ]
+      }, 
+      "properties" : {
+        "OID" : 212, 
+        "FACILITYID" : "1028", 
+        "COMMONNAME" : "holly, Foster's", 
+        "HEIGHT" : 72, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6010573816942, 35.8477848631841
+        ]
+      }, 
+      "properties" : {
+        "OID" : 213, 
+        "FACILITYID" : "1355", 
+        "COMMONNAME" : "smoketree", 
+        "HEIGHT" : 96, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5125488812272, 35.8442463465949
+        ]
+      }, 
+      "properties" : {
+        "OID" : 214, 
+        "FACILITYID" : "1775", 
+        "COMMONNAME" : "maple, paperbark", 
+        "HEIGHT" : 7, 
+        "DBH" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.734742798143, 35.7792812492335
+        ]
+      }, 
+      "properties" : {
+        "OID" : 215, 
+        "FACILITYID" : "1940", 
+        "COMMONNAME" : "oak, southern red", 
+        "HEIGHT" : 63, 
+        "DBH" : 33
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6018174662045, 35.753246083743
+        ]
+      }, 
+      "properties" : {
+        "OID" : 216, 
+        "FACILITYID" : "1878", 
+        "COMMONNAME" : "maple, hedge", 
+        "HEIGHT" : 62, 
+        "DBH" : 34
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5615452476165, 35.733983755749
+        ]
+      }, 
+      "properties" : {
+        "OID" : 217, 
+        "FACILITYID" : "1527", 
+        "COMMONNAME" : "sycamore, American", 
+        "HEIGHT" : 54, 
+        "DBH" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.638174637351, 35.7572535176389
+        ]
+      }, 
+      "properties" : {
+        "OID" : 218, 
+        "FACILITYID" : "1319", 
+        "COMMONNAME" : "hophornbeam, eastern", 
+        "HEIGHT" : 15, 
+        "DBH" : 33
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5452830157, 35.8656753896107
+        ]
+      }, 
+      "properties" : {
+        "OID" : 219, 
+        "FACILITYID" : "1090", 
+        "COMMONNAME" : "elm, slippery", 
+        "HEIGHT" : 88, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.569712806802, 35.8159648661888
+        ]
+      }, 
+      "properties" : {
+        "OID" : 220, 
+        "FACILITYID" : "1522", 
+        "COMMONNAME" : "pecan", 
+        "HEIGHT" : 75, 
+        "DBH" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6593211700373, 35.8734553337998
+        ]
+      }, 
+      "properties" : {
+        "OID" : 221, 
+        "FACILITYID" : "1715", 
+        "COMMONNAME" : "fig, common", 
+        "HEIGHT" : 77, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7013602165022, 35.8822525254369
+        ]
+      }, 
+      "properties" : {
+        "OID" : 222, 
+        "FACILITYID" : "1588", 
+        "COMMONNAME" : "oak, bur", 
+        "HEIGHT" : 17, 
+        "DBH" : 11
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6652214834861, 35.8248899926822
+        ]
+      }, 
+      "properties" : {
+        "OID" : 223, 
+        "FACILITYID" : "1590", 
+        "COMMONNAME" : "buckeye, Ohio", 
+        "HEIGHT" : 45, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7646539858942, 35.856930597872
+        ]
+      }, 
+      "properties" : {
+        "OID" : 224, 
+        "FACILITYID" : "1233", 
+        "COMMONNAME" : "apricot, Japanese", 
+        "HEIGHT" : 91, 
+        "DBH" : 28
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7383218345864, 35.8050817375353
+        ]
+      }, 
+      "properties" : {
+        "OID" : 225, 
+        "FACILITYID" : "1993", 
+        "COMMONNAME" : "dogwood, kousa", 
+        "HEIGHT" : 46, 
+        "DBH" : 44
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5834496587761, 35.9114142928385
+        ]
+      }, 
+      "properties" : {
+        "OID" : 226, 
+        "FACILITYID" : "1229", 
+        "COMMONNAME" : "horsechestnut", 
+        "HEIGHT" : 54, 
+        "DBH" : 30
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6159164949517, 35.8680380965841
+        ]
+      }, 
+      "properties" : {
+        "OID" : 227, 
+        "FACILITYID" : "1699", 
+        "COMMONNAME" : "fringetree, white", 
+        "HEIGHT" : 12, 
+        "DBH" : 6
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5933792956194, 35.862967349267
+        ]
+      }, 
+      "properties" : {
+        "OID" : 228, 
+        "FACILITYID" : "1809", 
+        "COMMONNAME" : "pine, Scotch", 
+        "HEIGHT" : 67, 
+        "DBH" : 10
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5446882823397, 35.8063720191565
+        ]
+      }, 
+      "properties" : {
+        "OID" : 229, 
+        "FACILITYID" : "1679", 
+        "COMMONNAME" : "maple, Japanese", 
+        "HEIGHT" : 13, 
+        "DBH" : 32
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.555742357725, 35.7109026815167
+        ]
+      }, 
+      "properties" : {
+        "OID" : 230, 
+        "FACILITYID" : "1911", 
+        "COMMONNAME" : "chokecherry", 
+        "HEIGHT" : 86, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.677106848104, 35.8335865681688
+        ]
+      }, 
+      "properties" : {
+        "OID" : 231, 
+        "FACILITYID" : "1369", 
+        "COMMONNAME" : "chestnut, American", 
+        "HEIGHT" : 14, 
+        "DBH" : 22
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7062371608177, 35.7739078989336
+        ]
+      }, 
+      "properties" : {
+        "OID" : 232, 
+        "FACILITYID" : "1908", 
+        "COMMONNAME" : "birch, gray", 
+        "HEIGHT" : 92, 
+        "DBH" : 39
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6934450403577, 35.8547816021924
+        ]
+      }, 
+      "properties" : {
+        "OID" : 233, 
+        "FACILITYID" : "1505", 
+        "COMMONNAME" : "cherry, cornelian", 
+        "HEIGHT" : 8, 
+        "DBH" : 14
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6789257350361, 35.7984358600302
+        ]
+      }, 
+      "properties" : {
+        "OID" : 234, 
+        "FACILITYID" : "1638", 
+        "COMMONNAME" : "smoketree, American", 
+        "HEIGHT" : 74, 
+        "DBH" : 12
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.765915319238, 35.8930669027186
+        ]
+      }, 
+      "properties" : {
+        "OID" : 235, 
+        "FACILITYID" : "1720", 
+        "COMMONNAME" : "poplar, black", 
+        "HEIGHT" : 58, 
+        "DBH" : 31
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.70988156988, 35.8369108482602
+        ]
+      }, 
+      "properties" : {
+        "OID" : 236, 
+        "FACILITYID" : "1385", 
+        "COMMONNAME" : "fringetree, white", 
+        "HEIGHT" : 51, 
+        "DBH" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5689629781603, 35.8861696629028
+        ]
+      }, 
+      "properties" : {
+        "OID" : 237, 
+        "FACILITYID" : "1197", 
+        "COMMONNAME" : "oak, chestnut", 
+        "HEIGHT" : 39, 
+        "DBH" : 29
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.7367936714922, 35.8624460563437
+        ]
+      }, 
+      "properties" : {
+        "OID" : 238, 
+        "FACILITYID" : "1156", 
+        "COMMONNAME" : "linden, littleleaf", 
+        "HEIGHT" : 76, 
+        "DBH" : 11
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6689124423567, 35.8128260263033
+        ]
+      }, 
+      "properties" : {
+        "OID" : 239, 
+        "FACILITYID" : "1614", 
+        "COMMONNAME" : "oak, blackjack", 
+        "HEIGHT" : 36, 
+        "DBH" : 6
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5927382228921, 35.9186449491083
+        ]
+      }, 
+      "properties" : {
+        "OID" : 240, 
+        "FACILITYID" : "1014", 
+        "COMMONNAME" : "photinia, Fraser", 
+        "HEIGHT" : 98, 
+        "DBH" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6481842536018, 35.8354758971981
+        ]
+      }, 
+      "properties" : {
+        "OID" : 241, 
+        "FACILITYID" : "1147", 
+        "COMMONNAME" : "dogwood, flowering", 
+        "HEIGHT" : 90, 
+        "DBH" : 47
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6087283649235, 35.7947187299886
+        ]
+      }, 
+      "properties" : {
+        "OID" : 242, 
+        "FACILITYID" : "1339", 
+        "COMMONNAME" : "cedar, incense", 
+        "HEIGHT" : 83, 
+        "DBH" : 45
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5419597986072, 35.8181211796519
+        ]
+      }, 
+      "properties" : {
+        "OID" : 243, 
+        "FACILITYID" : "1193", 
+        "COMMONNAME" : "boxelder", 
+        "HEIGHT" : 59, 
+        "DBH" : 46
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.497462225103, 35.8755512415997
+        ]
+      }, 
+      "properties" : {
+        "OID" : 244, 
+        "FACILITYID" : "1710", 
+        "COMMONNAME" : "cedar, Atlas", 
+        "HEIGHT" : 98, 
+        "DBH" : 36
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6729157546598, 35.7790417624706
+        ]
+      }, 
+      "properties" : {
+        "OID" : 245, 
+        "FACILITYID" : "1683", 
+        "COMMONNAME" : "fringetree, Chinese", 
+        "HEIGHT" : 64, 
+        "DBH" : 35
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.571102755789, 35.8775381137961
+        ]
+      }, 
+      "properties" : {
+        "OID" : 246, 
+        "FACILITYID" : "1984", 
+        "COMMONNAME" : "oak, shumard", 
+        "HEIGHT" : 97, 
+        "DBH" : 16
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6138065541306, 35.8941624055738
+        ]
+      }, 
+      "properties" : {
+        "OID" : 247, 
+        "FACILITYID" : "1886", 
+        "COMMONNAME" : "hornbeam, European", 
+        "HEIGHT" : 31, 
+        "DBH" : 27
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5961768041176, 35.7864241568526
+        ]
+      }, 
+      "properties" : {
+        "OID" : 248, 
+        "FACILITYID" : "1389", 
+        "COMMONNAME" : "oak, blackjack", 
+        "HEIGHT" : 29, 
+        "DBH" : 49
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6358502423961, 35.8477520091511
+        ]
+      }, 
+      "properties" : {
+        "OID" : 249, 
+        "FACILITYID" : "1732", 
+        "COMMONNAME" : "hickory, pignut", 
+        "HEIGHT" : 49, 
+        "DBH" : 23
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.5541451428854, 35.8034842214229
+        ]
+      }, 
+      "properties" : {
+        "OID" : 250, 
+        "FACILITYID" : "1472", 
+        "COMMONNAME" : "walnut, black", 
+        "HEIGHT" : 88, 
+        "DBH" : 36
+      }
+    }, 
+    {
+      "type" : "Feature", 
+      "geometry" : 
+      {
+        "type" : "Point", 
+        "coordinates" : [
+          -78.6934221801758, 35.9860290540722
+        ]
+      }, 
+      "properties" : {
+        "OID" : 251, 
+        "FACILITYID" : null, 
+        "COMMONNAME" : "oak, white", 
+        "HEIGHT" : null, 
+        "DBH" : null
+      }
+    }
+  ]
+}
